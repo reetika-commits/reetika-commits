@@ -15,7 +15,7 @@ Manual Testing Functional Testing Regression Testing Smoke & Sanity API Testing 
 Selenium WebDriver Pytest Page Object Model (POM) Postman Newman GitHub Actions CI/CD Data-Driven Testing
 
 *AI / Advanced*
-LangChain LangGraph RAG (Retrieval-Augmented Generation) LLM Integration Vision-Language Models Embeddings Cosine Similarity Ollama
+LangChain · LangGraph · LangSmith · RAG · LLM Integration · Vision-Language Models · Embeddings · Cosine Similarity · Ollama
 
 *Languages & Tools*
 Python JavaScript C# FastAPI SQLite SQL JIRA Git & GitHub
@@ -25,7 +25,7 @@ Python JavaScript C# FastAPI SQLite SQL JIRA Git & GitHub
 ## 🚀 Featured Projects
 
 ### 🤖 AiQA — AI-Powered QA Automation Assistant ★ Flagship Project
-> *Python | FastAPI | Selenium | Pytest | LangChain | LangGraph | RAG | LLM | Qwen2.5-VL | Ollama | SQLite*
+> Python | FastAPI | Selenium | Pytest | LangChain | LangGraph | LangSmith | RAG | LLM | Qwen2.5-VL | Ollama | SQLite
 
 An AI-powered QA system that generates application-specific test cases by combining browser automation, RAG, LLMs, and Vision-Language models.
 
@@ -42,6 +42,7 @@ An AI-powered QA system that generates application-specific test cases by combin
 - QA Agent (Vision and non-Vision paths), LangGraph nodes and conditional routing
 - FastAPI layer (requests, validation, file uploads, failure handling)
 - External dependencies mocked for fast, deterministic unit tests
+- LangSmith tracing and observability for LangGraph execution, including browser inspection, conditional routing, Vision execution, inputs, outputs, and workflow runs
 
 🔗 [github.com/reetika-commits/AiQA-AI-QA-Assistant](https://github.com/reetika-commits/AiQA-AI-QA-Assistant)
 
