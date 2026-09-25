@@ -24,7 +24,7 @@ Python JavaScript C# FastAPI SQLite SQL JIRA Git & GitHub
 
 ## 🚀 Featured Projects
 
-### 🤖 AiQA — AI-Powered QA Automation Assistant
+### 🤖 AiQA — AI-Powered QA Automation Assistant ★ Flagship Project
 > *Python | FastAPI | Selenium | Pytest | LangChain | LangGraph | RAG | LLM | Qwen2.5-VL | Ollama | SQLite*
 
 An AI-powered QA system that generates application-specific test cases by combining browser automation, RAG, LLMs, and Vision-Language models.
