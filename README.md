@@ -1,8 +1,8 @@
 # Hi, I'm Reetika Srivastava 👋
 
-*QA Automation Engineer | AI-Integrated QA | Selenium + Python | REST API Testing*
+*QA Automation Engineer | AI-Integrated QA | Selenium | Playwright | Python | REST API Testing*
 
-MCA graduate with a software development background and hands-on experience in manual testing, test automation, and AI-assisted QA workflows. I build end-to-end automation frameworks using Selenium WebDriver, Pytest, Postman/Newman, and Python — and I test what I build.
+MCA graduate with a software development background and hands-on experience in manual testing, test automation, and AI-assisted QA workflows. I build end-to-end automation frameworks using Selenium WebDriver, Playwright, Pytest, Postman/Newman, and Python — and I test what I build.
 
 ---
 
