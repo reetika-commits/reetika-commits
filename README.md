@@ -47,7 +47,20 @@ An AI-powered QA system that generates application-specific test cases by combin
 🔗 [github.com/reetika-commits/AiQA-AI-QA-Assistant](https://github.com/reetika-commits/AiQA-AI-QA-Assistant)
 
 ---
+> *Python, Playwright, Pytest, Pytest-Asyncio, Asyncio, JSON, Git, GitHub Actions.
 
+An asynchronous UI automation framework using Python, Playwright Async API, and pytest to automate end-to-end workflows on the SauceDemo application.
+
+- Implemented Page Object Model (POM) for maintainable test automation.
+- Used JSON-driven test data to execute workflows for multiple users.
+- Implemented concurrent browser execution using `asyncio.gather()` with isolated browser contexts.
+- Validated successful and expected negative application behaviours.
+- Integrated logging, exception handling, and automated screenshot capture.
+- Configured GitHub Actions CI/CD pipeline to execute tests in headless Firefox on every push and pull request.
+
+🔗 [github.com/reetika-commits/async-playwright-saucedemo](https://github.com/reetika-commits/async-playwright-saucedemo)
+
+---
 ### ✈️ Flight Search Automation Framework
 > *Python | Selenium WebDriver | Pytest | POM | GitHub Actions CI/CD*
 
